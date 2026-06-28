@@ -1,0 +1,6 @@
+{
+  "name": "AI Chief of Staff",
+  "description": "An AI-powered Chief of Staff that organizes raw schedule chaos, suggests calendar slots, drafts action documents, and integrates with Google Tasks and Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
